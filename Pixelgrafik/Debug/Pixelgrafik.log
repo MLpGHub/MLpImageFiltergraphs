@@ -1,0 +1,7 @@
+﻿  CQualityMerge.cpp
+  Pixelgrafik.cpp
+  PixelgrafikDlg.cpp
+C:\Users\MLpTower\Desktop\PixelgrafikEditor\Pixelgrafik\PixelgrafikDlg.cpp(209,4): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\MLpTower\Desktop\PixelgrafikEditor\Pixelgrafik\PixelgrafikDlg.cpp(358,30): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  Code wird generiert...
+  Pixelgrafik.vcxproj -> C:\Users\MLpTower\Desktop\PixelgrafikEditor\Debug\Pixelgrafik.exe
